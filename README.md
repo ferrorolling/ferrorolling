@@ -7,5 +7,4 @@ I’m a data analyst transitioning into front-end development with a focus on Re
 - 👯  I’m looking to collaborate on front-end projects, particularly React-based applications.
 
 ## Skills
----
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mysql)](https://skillicons.dev)
