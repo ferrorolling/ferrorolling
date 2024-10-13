@@ -9,4 +9,4 @@ I’m a data analyst transitioning into front-end development with a focus on Re
 ## Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql)](https://skillicons.dev)
