@@ -10,3 +10,7 @@ I’m a data analyst transitioning into front-end development with a focus on Re
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql)](https://skillicons.dev)
+
+## How to reach me:
+
+You can contact me at: [xeviferro@gmail.com](mailto:xeviferro@gmail.com)
