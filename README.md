@@ -6,4 +6,6 @@ I’m a data analyst transitioning into front-end development with a focus on Re
 - 🌱  I’m currently learning React, JavaScript, and improving my CSS/HTML skills.
 - 👯  I’m looking to collaborate on front-end projects, particularly React-based applications.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Skills
+---
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mysql)](https://skillicons.dev)
